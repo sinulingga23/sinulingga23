@@ -1,12 +1,3 @@
-- 👋 Hi, I’m Denny Rezky Sinulingga
-- 👀 I’m interested in Backend and Cloud development.
-- 🌱 I’m currently learning Go, Java, and Python.
-- 📫 How to reach me sinulinggatwo@gmail.com
+👋 Hi, Denny Rezky Sinulingga here. An software enginner (backend) which currently uses Golang, Docker, Kafka, PostgreSQL, Nginx, and Redis as tech stack for working at Otto Digital Group.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinulingga23&count_private=trueshow_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinulingga23)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-sinulingga23/sinulingga23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Also, I have past experience uses Java (Spring), ZK Framework, MySQL, Jaspersoft Studio, and Flutter at my previous company (Otten Coffee) for building internal web & mobile app which used by accunting & warehouse staffs.
